@@ -1,4 +1,4 @@
-# GooleMaps only Html and Css in DarkMOde
+# GoogleMaps only Html and Css in DarkMOde
 
 https://codepen.io/lars-asplund-hotmail-com/pen/qBMGQva
 
